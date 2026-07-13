@@ -149,3 +149,12 @@ This is an actively evolving project:
 
 - The guest-facing room showcase (`RoomsSection.tsx`) still renders from a static placeholder list rather than the live `room_categories` table.
 - The branding/content customizer (color theme, image uploads, editable site copy, booking-rule configuration) hasn't been built yet — site branding is currently only editable directly in the database.
+
+<br />
+
+## Developer
+
+Built by **Satyam**.
+
+- Email: [satyam211kumar@gmail.com](mailto:satyam211kumar@gmail.com)
+- GitHub: [@satyam-edu](https://github.com/satyam-edu)
