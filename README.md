@@ -152,9 +152,5 @@ This is an actively evolving project:
 
 <br />
 
-## Developer
 
-Built by **Satyam**.
 
-- Email: [satyam211kumar@gmail.com](mailto:satyam211kumar@gmail.com)
-- GitHub: [@satyam-edu](https://github.com/satyam-edu)
